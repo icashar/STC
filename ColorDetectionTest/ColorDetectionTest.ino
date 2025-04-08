@@ -4,8 +4,8 @@
 #include "soc/soc.h"
 #include "soc/rtc_cntl_reg.h"
  
-const char* WIFI_SSID = "Samsung";
-const char* WIFI_PASS = "24681357";
+const char* WIFI_SSID = "XXX";
+const char* WIFI_PASS = "XXX";
 
 WebServer server(80);
 
