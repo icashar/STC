@@ -1,3 +1,12 @@
+🏎️ RC Car Lap Tracking System
+==============================
+
+Ce projet a été développé dans le cadre d'un défi de conception en géni, dont l'objectif était de créer un système de suivi des tours fiable et économique pour une compétition de courses de voitures télécommandées entre étudiants Les systèmes commerciaux étant trop coûteux et complexes, nous avons conçu une solution sur mesure utilisant un capteur de lumière à l'arrivée et des carrosseries de voiture imprimées en 3D avec un code couleur pour détecter le passage de chaque voiture.
+
+Le système enregistre le nombre de tours, les temps au tour et détermine le vainqueur de la course. Il comprend également une interface simple pour afficher le classement actuel et la progression de la course en temps réel, conçue pour être lisible et conviviale pendant l'événement.
+
+Ce projet a mis l'accent sur la simplicité, la performance et l'apprentissage pratique grâce à des capteurs, à Arduino et à une conception d'interface utilisateur simple.
+
 
 Instructions - Détection de Couleur
 =========================
