@@ -1,4 +1,4 @@
-🏎️ RC Car Lap Tracking System
+🏎️ Système tours-Chrono
 ==============================
 
 Ce projet a été développé dans le cadre d'un défi de conception en géni, dont l'objectif était de créer un système de suivi des tours fiable et économique pour une compétition de courses de voitures télécommandées entre étudiants Les systèmes commerciaux étant trop coûteux et complexes, nous avons conçu une solution sur mesure utilisant un capteur de lumière à l'arrivée et des carrosseries de voiture imprimées en 3D avec un code couleur pour détecter le passage de chaque voiture.
@@ -7,6 +7,7 @@ Le système enregistre le nombre de tours, les temps au tour et détermine le va
 
 Ce projet a mis l'accent sur la simplicité, la performance et l'apprentissage pratique grâce à des capteurs, à Arduino et à une conception d'interface utilisateur simple.
 
+Notre MakerRepo: https://makerepo.com/EthanLeroux/2423.systme-chronotours
 
 Instructions - Détection de Couleur
 =========================
