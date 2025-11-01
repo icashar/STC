@@ -1,5 +1,8 @@
 🏎️ Système tours-Chrono - Lap-Timer System
 ==============================
+
+
+![Lap-Timer Setup](./images/lap-timer-demo.jpg)
 [The english version follows]
 
 Ce projet a été développé dans le cadre d'un défi de conception en géni, dont l'objectif était de créer un système de suivi des tours fiable et économique pour une compétition de courses de voitures télécommandées entre étudiants Les systèmes commerciaux étant trop coûteux et complexes, nous avons conçu une solution sur mesure utilisant un capteur de lumière à l'arrivée et des carrosseries de voiture imprimées en 3D avec un code couleur pour détecter le passage de chaque voiture.
